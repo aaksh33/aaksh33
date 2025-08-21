@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Aaksh
 
+![Profile](https://github.com/aaksh33/aaksh33/tree/main/image/profile.jpg) <!-- Replace with your image path -->
+
 💻 **Beginner Full Stack Developer** | 🌱 Learning & Growing Everyday  
 🚀 On a journey to build creative, user-friendly, and impactful web applications
 
@@ -28,9 +30,6 @@
 - ✅ Practice problem-solving on coding platforms  
 - 🔜 Work on **real-world projects**  
 - 🔜 Learn **API integration** and **deployment**
-
----
-
 
 ---
 
