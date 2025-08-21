@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aaksh
 
-![Profile](https://github.com/aaksh33/aaksh33/tree/main/image/profile.jpg) <!-- Replace with your image path -->
+![Project Banner](https://github.com/aaksh33/aaksh33/raw/main/image/profile.jpg)
 
 💻 **Beginner Full Stack Developer** | 🌱 Learning & Growing Everyday  
 🚀 On a journey to build creative, user-friendly, and impactful web applications
